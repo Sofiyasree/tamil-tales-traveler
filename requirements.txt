@@ -1,0 +1,42 @@
+
+# Node.js dependencies for TN HERITAGELENS project
+# Run 'npm install' to install all dependencies
+
+# Core dependencies
+react@18.3.1
+react-dom@18.3.1
+react-router-dom@6.26.2
+
+# UI components and styling
+tailwindcss
+@radix-ui/*
+class-variance-authority@0.7.1
+clsx@2.1.1
+tailwind-merge@2.5.2
+tailwindcss-animate@1.0.7
+lucide-react@0.462.0
+cmdk@1.0.0
+embla-carousel-react@8.3.0
+
+# Form handling
+react-hook-form@7.53.0
+@hookform/resolvers@3.9.0
+zod@3.23.8
+
+# Data fetching and state management
+@tanstack/react-query@5.56.2
+
+# Date handling
+date-fns@3.6.0
+react-day-picker@8.10.1
+
+# Other utilities
+next-themes@0.3.0
+sonner@1.5.0
+vaul@0.9.3
+input-otp@1.2.4
+
+# Development dependencies
+typescript
+vite
+@vitejs/plugin-react-swc
